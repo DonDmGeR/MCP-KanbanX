@@ -44,8 +44,8 @@
 
 1. **Repository klonen oder herunterladen**
    ```powershell
-   git clone https://github.com/yourusername/kanbanx-mcp.git
-   cd kanbanx-mcp
+   git clone https://github.com/DonDmGeR/MCP-KanbanX.git
+   cd MCP-KanbanX
    ```
 
 2. **Setup-Script ausführen**
@@ -667,18 +667,6 @@ class TimeTrackingPlugin:
 - [ ] **Board Templates**: Vorgefertigte Board-Layouts
 - [ ] **Export Features**: PDF, CSV, Markdown Export
 
-### Version 1.2 (geplant)
-- [ ] **Team Collaboration**: Multi-User Support
-- [ ] **Real-time Sync**: WebSocket-basierte Synchronisation
-- [ ] **Mobile App**: React Native App
-- [ ] **API Gateway**: REST API für externe Tools
-
-### Version 2.0 (Vision)
-- [ ] **AI Integration**: Automatische Task-Priorisierung
-- [ ] **Analytics Dashboard**: Produktivitäts-Metriken
-- [ ] **Workflow Automation**: IFTTT-ähnliche Regeln
-- [ ] **Plugin Marketplace**: Community-Plugins
-
 ## 🤝 Contributing
 
 Beiträge sind willkommen! Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details.
@@ -687,7 +675,7 @@ Beiträge sind willkommen! Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details
 
 ```powershell
 # Repository forken und klonen
-git clone https://github.com/yourusername/kanbanx-mcp.git
+git clone https://github.com/DonDmGeR/MCP-KanbanX.git
 cd kanbanx-mcp
 
 # Development-Dependencies installieren
@@ -726,10 +714,8 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) f�
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/kanbanx-mcp/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/kanbanx-mcp/discussions)
-- **Email**: support@kanbanx-mcp.com
-- **Discord**: [KanbanX Community](https://discord.gg/kanbanx)
+- **Issues**: [GitHub Issues](https://github.com/DonDmGeR/kanbanx-mcp/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/DonDmGeR/kanbanx-mcp/discussions) 
 
 ---
 
