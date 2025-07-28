@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "kanbanx-mcp"
 version = "1.0.0"
 description = "KanbanX MCP Server - Kanban Task Management via Model Context Protocol"
-authors = [{name = "Your Name", email = "your.email@example.com"}]
+authors = [{name = "DonDmGeR", email = "crazycrawler1@googlemail.com"}]
 license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.8"
@@ -18,5 +18,5 @@ dependencies = [
 kanbanx-mcp = "kanbanx_mcp_server:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/kanbanx-mcp"
-Repository = "https://github.com/yourusername/kanbanx-mcp.git"
+Homepage = "https://github.com/DonDmGeR/kanbanx-mcp"
+Repository = "https://github.com/DonDmGeR/kanbanx-mcp.git"
